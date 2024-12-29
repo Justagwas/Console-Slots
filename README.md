@@ -2,7 +2,7 @@
 
 A simple C++ console application that mimics a slot machine game using fake money.  
 
-Play with $100 starting cash, spin the slots, and see if you can win big—no real money involved!
+Play with $100 starting cash, spin the slots, and see if you can win big-no real money involved!
 
 ---
 
